@@ -1,6 +1,6 @@
 # overtly-malicious-skills
 
-This repository contains the four malicious skills created by the Machine Learning Security team at Trail of Bits to test out the reliability of skill scanners. You can check out our writeup describing the skills and how we used them to subvert scanners in our blog post, The Sorry State of Skill Distribution.
+This repository contains the four malicious skills created by the Machine Learning Security team at Trail of Bits to test out the reliability of skill scanners. You can check out our writeup describing the skills and how we used them to subvert scanners in our blog post, [The Sorry State of Skill Distribution](https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution/).
 
 **WARNING: THESE SKILLS ARE MALICIOUS AND INTENDED FOR SECURITY RESEARCH PURPOSES ONLY. DO NOT INSTALL THEM.**
 
